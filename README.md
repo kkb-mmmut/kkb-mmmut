@@ -2,7 +2,7 @@
 
 ## My name is Kamlesh ([**@kkb-mmmut**](https://kkb-mmmut.github.io/kamlesh_portfolio/))
 
-- 🎯 I'm **focusing** now on **React**
+- 🎯 I'm **focusing** now on **React | Firebase | Redux | NodeJS **
 - 🌞 I love to **Design & Art**, **Reading Books** & **Listening News**, **Grasping Technical Skills** and **Travel**.
 - ✉️ I will be **glad to collaborate** on interesting projects. Feel free to write me. 
 
