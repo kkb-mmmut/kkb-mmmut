@@ -17,10 +17,18 @@ You can click the Preview link to take a look at your changes.
 ![contrib graph](./profile-3d-contrib/profile-gitblock.svg)
 --->
 
-## Languages Used
+## Languages Using
+- **Java**
+- **C/C++**
+- **JavaScript**
+- **Python**
+- **React JS**
+- **Node JS**
+## Database Using
+- **Firebase**
+- **MongoDB**
+- **MySql/Oracle DB**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkb-mmmut&layout=compact)](https://github.com/kkb-mmmut/github-readme-stats)
- 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkb-mmmut&label=Profile%20views&color=0e75b6&style=flat" alt="kkb-mmmut" /> </p>
 
