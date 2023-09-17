@@ -5,18 +5,7 @@
 - 🎯 I'm **focusing** now on **React** | **Firebase** | **Redux** | **NodeJS**
 - 🌞 I love to **Design & Art**, **Reading Books** & **Listening News**, **Grasping Technical Skills** and **Travel**.
 - ✉️ I will be **glad to collaborate** on interesting projects. Feel free to write me. 
-
-<!---
-kkb-mmmut/kkb-mmmut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kkb-mmmut)](https://git.io/streak-stats)
-
-<!---
-## My activity:
-![contrib graph](./profile-3d-contrib/profile-gitblock.svg)
---->
-
+ 
 ## Languages Using
 - **Java**
 - **C/C++**
